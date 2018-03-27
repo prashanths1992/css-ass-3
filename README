@@ -1,0 +1,9 @@
+Cases Supported are: 
+	1. wc  -- urlextend wc <url>
+		for ex. urlextend wc www.google.com
+	2. cp  -- urlextend cp <url> <local_file_name> 
+		for ex. urlextend cp www.google.com tempFile.html 
+	3. mv  -- urlextend mv <url> <local_file_name> 
+		for ex. urlextend mv www.google.com tempFile.txt
+	4. vi  -- urlextend vi <url>
+		for ex. urlextend www.google.com
